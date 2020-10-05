@@ -1,4 +1,4 @@
-# Sequential Recommendation Paperlist 
+# Sequential/Session Recommendation Paperlist 
 
 This is some research works about Sequential/Session Recommendation. This task is defined as: given a sequence s = {i1, i2, ..., in}, we aim to predict the next item in+1 which will be clicked by the user.
 
