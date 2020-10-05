@@ -9,8 +9,9 @@ Please cite our paper:
 
 ## Survey
 - A Survey on Session-based Recommender Systems [Arxiv 2019] [[__PDF__]](https://arxiv.org/abs/1902.04864)
-- Sequence-aware Recommender Systems [CSUR 2018][[__PDF__]](https://arxiv.org/pdf/1802.08452.pdf)[[_code_]](https://github.com/mquad/sars_tutorial)
+- Sequence-aware Recommender Systems [CSUR 2018] [[__PDF__]](https://arxiv.org/pdf/1802.08452.pdf)[[_code_]](https://github.com/mquad/sars_tutorial)
 - Deep Learning for Sequential Recommendation: Algorithms, Influential Factors, and Evaluations [Arxiv 2019] [[__PDF__]](https://arxiv.org/abs/1905.01997)
+- Sequential Recommender Systems  Challenges,Progress and Prospects [IJCAI 2019] [[_PDF_]](https://www.ijcai.org/Proceedings/2019/0883.pdf)
 
 ## Dataset
 - Amazon [[_link_]](http://jmcauley.ucsd.edu/data/amazon/)
