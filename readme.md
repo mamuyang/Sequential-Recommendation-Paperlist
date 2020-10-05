@@ -1,6 +1,6 @@
 # Sequential/Session Recommendation Paperlist 
 
-This is some research works about Sequential/Session Recommendation. This task is defined as: given a sequence s = {i1, i2, ..., in}, we aim to predict the next item in+1 which will be clicked by the user.
+There are some research works about Sequential/Session Recommendation(SR). This task is defined as: given a sequence s = {i1, i2, ..., in}, we aim to predict the next item in+1 which will be clicked by the user.
 
 Please cite our paper: 
 - Muyang Ma, Pengjie Ren, Yujie Lin, Zhumin Chen, Jun Ma, de Rijke, Maarten (2019). $\pi$-Net: A Parallel Information-sharing Network for Shared-account Cross-domain Sequential Recommendations. SIGIR'19, Paris, France, July 21-25, 2019
