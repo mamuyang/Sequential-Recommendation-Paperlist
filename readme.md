@@ -1,10 +1,15 @@
 # Sequential Recommendation Paperlist 
 
+This is some research works about Sequential/Session Recommendation. This task is defined as: given a sequence s = {i1, i2, ..., in}, we aim to predict the next item in+1 which will be clicked by the user.
+
 ## Survey
 - A Survey on Session-based Recommender Systems [Arxiv 2019] [[__PDF__]](https://arxiv.org/abs/1902.04864)
 
 ## Dataset
-- 
+- Amazon [[_link_]](http://jmcauley.ucsd.edu/data/amazon/)
+- Yoochoose [[_link_]](https://2015.recsyschallenge.com/challenge.html)
+- MovieLen-1M [[_link_]](https://grouplens.org/datasets/movielens/1m/)
+- MovieLen-20M [[_link_]](https://grouplens.org/datasets/movielens/20m/)
 
 ## Traditional Methods(MC/MDP)
 
