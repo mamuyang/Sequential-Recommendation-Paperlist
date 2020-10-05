@@ -2,6 +2,11 @@
 
 This is some research works about Sequential/Session Recommendation. This task is defined as: given a sequence s = {i1, i2, ..., in}, we aim to predict the next item in+1 which will be clicked by the user.
 
+Please cite our paper: 
+- Muyang Ma, Pengjie Ren, Yujie Lin, Zhumin Chen, Jun Ma, de Rijke, Maarten (2019). $\pi$-Net: A Parallel Information-sharing Network for Shared-account Cross-domain Sequential Recommendations. SIGIR'19, Paris, France, July 21-25, 2019
+- Exploring Mixed Information Flow for Cross-domain Sequential Recommendations.
+
+
 ## Survey
 - A Survey on Session-based Recommender Systems [Arxiv 2019] [[__PDF__]](https://arxiv.org/abs/1902.04864)
 - Sequence-aware Recommender Systems [CSUR 2018][[_PDF_]](https://arxiv.org/pdf/1802.08452.pdf)[[_code_]](https://github.com/mquad/sars_tutorial)
@@ -38,6 +43,7 @@ This is some research works about Sequential/Session Recommendation. This task i
 - Session-based Recommendation with Graph Neural Networks [AAAI 2019] [[__PDF__]](https://arxiv.org/pdf/1811.00855) [[__code__]](https://github.com/CRIPAC-DIG/SR-GNN)
 - Feature-level Deeper Self-attention Network for Sequential Recommendation [IJCAI 2019][[_PDF_]](https://www.ijcai.org/Proceedings/2019/0600.pdf)
 - BERT4Rec: Sequential Recommendation with Bidirectional Encoder Representations from Transformer [CIKM 2019] [[__PDF__]](https://arxiv.org/abs/1904.06690) [[__code__]](https://github.com/FeiSun/BERT4Rec)
+- SASrec: Self-Attentive Sequential Recommendation [ICDM 2018][[_PDF_]](https://arxiv.org/abs/1808.09781)
 - Parallel recurrent neural network architectures for feature-rich session-based recommendations [RecSys 2016][[_PDF_]](https://dl.acm.org/doi/10.1145/2959100.2959167)
 - Context-aware sequential recommendation [ICDM 2016][[_PDF_]](https://arxiv.org/abs/1609.05787)
 - Incorporating dwell time in session-based recommendations with recurrent Neural networks [RecSys 2017][[_PDF_]](http://ceur-ws.org/Vol-1922/paper11.pdf)
