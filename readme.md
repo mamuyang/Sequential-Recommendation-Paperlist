@@ -4,6 +4,7 @@ This is some research works about Sequential/Session Recommendation. This task i
 
 ## Survey
 - A Survey on Session-based Recommender Systems [Arxiv 2019] [[__PDF__]](https://arxiv.org/abs/1902.04864)
+- Sequence-aware recommender systems [CSUR 2018][[_PDF_]](https://arxiv.org/pdf/1802.08452.pdf)
 
 ## Dataset
 - Amazon [[_link_]](http://jmcauley.ucsd.edu/data/amazon/)
@@ -15,6 +16,12 @@ This is some research works about Sequential/Session Recommendation. This task i
 
 - Playlist prediction via metric embedding [SIGKDD 2012][[_PDF_]](http://www.cs.cornell.edu/~jlmo/kdd12.pdf)
 - Fusing similarity models with markov chains for sparse sequential recommendation [ICDM 2016][[_PDF_]](https://cseweb.ucsd.edu/~jmcauley/pdfs/icdm16a.pdf)
+- Factorizing personalized markov chains for next-basket recommendation [WWW 2010][[_PDF_]](http://ramb.ethz.ch/CDstore/www2010/www/p811.pdf)
+- Using temporal data for making recommendations [UAI 2001][[_PDF_]](https://arxiv.org/ftp/arxiv/papers/1301/1301.2320.pdf)
+- An MDP-based recommender system [IMLR 2005][[_PDF_]](https://www.jmlr.org/papers/volume6/shani05a/shani05a.pdf)
+- Personalized next-song recommendation in online karaokes [RecSys 2013][[_PDF_]](https://dl.acm.org/doi/10.1145/2507157.2507215)
+- Learning hierarchical representation model for nextbasket recommendation [SIGIR 2015][[_PDF_]](https://dl.acm.org/doi/10.1145/2766462.2767694)
+- Effective next-items recommendation via personalized sequential pattern mining [DASFAA 2012][[_PDF_]](https://www.researchgate.net/publication/262275934_Effective_Next-Items_Recommendation_via_Personalized_Sequential_Pattern_Mining)
 
 ## Deep Learning Methods
 
