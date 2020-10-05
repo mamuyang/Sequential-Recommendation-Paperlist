@@ -1,12 +1,15 @@
 # Sequential Recommendation Paperlist 
 
 ## Survey
+- A Survey on Session-based Recommender Systems [Arxiv 2019] [[__PDF__]](https://arxiv.org/abs/1902.04864)
+
+## Dataset
 - 
 
 ## Traditional Methods(MC/MDP)
 
 - Playlist prediction via metric embedding [SIGKDD 2012][[_PDF_]](http://www.cs.cornell.edu/~jlmo/kdd12.pdf)
--  Fusing similarity models with markov chains for sparse sequential recommendation [ICDM 2016][[_PDF_]](https://cseweb.ucsd.edu/~jmcauley/pdfs/icdm16a.pdf)
+- Fusing similarity models with markov chains for sparse sequential recommendation [ICDM 2016][[_PDF_]](https://cseweb.ucsd.edu/~jmcauley/pdfs/icdm16a.pdf)
 
 ## Deep Learning Methods
 
@@ -24,7 +27,7 @@
 - A Collaborative Session-based Recommendation Approach with Parallel Memory Modules [SIGIR 2019] [[__PDF__]](https://dl.acm.org/doi/abs/10.1145/3331184.3331210) [[__code__]](https://github.com/wmeirui/CSRM_SIGIR2019)
 - π-Net: A Parallel Information-sharing Network for Shared-account Cross-domain Sequential Recommendations [SIGIR 2019] [[__PDF__]](https://dl.acm.org/doi/10.1145/3331184.3331200) [[__code__]](https://bitbucket.org/Catherine_Ma/sigir2019_muyang_recommendation/)
 - Streaming Session-based Recommendation [KDD 2019] [[__PDF__]](https://dl.acm.org/doi/abs/10.1145/3292500.3330839)
-- A Survey on Session-based Recommender Systems [Arxiv 2019] [[__PDF__]](https://arxiv.org/abs/1902.04864)
+- 
 - Empirical Analysis of Session-Based Recommendation Algorithms [Arxiv 2019] [[__PDF__]](https://arxiv.org/pdf/1910.12781)
 - Deep Learning for Sequential Recommendation: Algorithms, Influential Factors, and Evaluations [Arxiv 2019] [[__PDF__]](https://arxiv.org/abs/1905.01997)
 - $S^3$-Rec: Self-Supervised Learning for Sequential Recommendation with Mutual Information Maximization [CIKM 2020] [[__PDF__]](https://arxiv.org/abs/2008.07873) [[__code__]](https://github.com/aHuiWang/CIKM2020-S3Rec)
